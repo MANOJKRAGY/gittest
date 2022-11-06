@@ -1,3 +1,4 @@
 this is a java file
 changes for teh gitignore
 some text for the merge conflict
+
